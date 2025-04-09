@@ -6,7 +6,6 @@ __pycache__/
 *.so
 
 # Jupyter
-*.ipynb
 .ipynb_checkpoints/
 
 # Environment
