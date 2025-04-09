@@ -1,0 +1,13 @@
+# .dockerignore
+*.csv
+*.ipynb
+logs/
+checkpoints/
+__pycache__/
+.DS_Store
+
+venv/
+notebooks/
+data/
+docs/
+preds/
